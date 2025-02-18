@@ -64,8 +64,8 @@ This work is based on several influential resources in the field of transformers
 - **A Complete Guide to Transformers** by Alejandro Ito Aramendia  
   [Medium Post](https://medium.com/@alejandro.itoaramendia/attention-is-all-you-need-a-complete-guide-to-transformers-8670a3f09d02)
 
-- **YouTube Playlist: The Annotated Transformer** by Harvard's CS207  
+- **YouTube Playlist** 
   [Playlist 1](https://www.youtube.com/playlist?list=PLTl9hO2Oobd97qfWC40gOSU8C0iu0m2l4)
 
-- **YouTube Playlist: Transformers in NLP**  
+- **YouTube Playlist**  
   [Playlist 2](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
